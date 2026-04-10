@@ -1,16 +1,21 @@
-## Hi there 👋
+# Wonderxfans — Premium Wholesale Activewear Supplier
 
-<!--
-**Wonderxfans/Wonderxfans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Wonderxfans is a China-based OEM/ODM activewear manufacturer 
+supplying boutiques, gyms, and e-commerce brands worldwide.
 
-Here are some ideas to get you started:
+## What We Offer
+- Buttery soft leggings (lululemon-quality fabrics)
+- Squat-proof, 4-way stretch activewear
+- Seamless knit styles (SKIMS / Alo-inspired)
+- Custom branding: DTF, Embroidery, Silicone printing
+- Low MOQ | Lead time: 30–45 days
+- Everything that you would like regarding wholesale activewear
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Resources
+- 🌐 Website: [https://www.wonderxfans.com/]
+- 📖 Sourcing Guide: [https://www.wonderxfans.com/blogs/activewear-insights/wholesale-activewear-from-china-buyers-guide]
+- 📧 Contact: Jason@wonderxfans.com
+
+Contact us for fabric spec sheets, GSM data, 
+sustainability certifications, and size charts 
+for verified wholesale buyers.
